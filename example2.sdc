@@ -1,0 +1,1 @@
+create_clock -period  -waveform {0 100} {clk1}
